@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "CRASH OUT!!!",
+  "base_artist": "OddRe:",
+  "createdAt": "2025-12-15T08:16:59.764127Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crash Out (feat. Stunna 4 Vegas)",
+      "artist": "Blac Youngsta feat. Stunna 4 Vegas",
+      "has_synced": true,
+      "path": "select/01_Crash_Out_(feat._Stunna_4_Vegas)_Blac_Youngsta_feat._Stunna_4_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crash Out (feat. Stunna 4 Vegas)",
+      "artist": "Blac Youngsta",
+      "has_synced": true,
+      "path": "select/02_Crash_Out_(feat._Stunna_4_Vegas)_Blac_Youngsta.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crash Out",
+      "artist": "Blac Youngsta",
+      "has_synced": true,
+      "path": "select/03_Crash_Out_Blac_Youngsta.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "CRASH OUT",
+      "artist": "$atori Zoom",
+      "has_synced": false,
+      "path": "select/04_CRASH_OUT_$atori_Zoom.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Crash Out",
+      "artist": "Blac Youngsta feat. Stunna 4 Vegas",
+      "has_synced": true,
+      "path": "select/05_Crash_Out_Blac_Youngsta_feat._Stunna_4_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "crash out",
+      "artist": "Current Blue",
+      "has_synced": false,
+      "path": "select/06_crash_out_Current_Blue.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crash Out",
+      "artist": "GLO",
+      "has_synced": true,
+      "path": "select/07_Crash_Out_GLO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crash Out (feat. Sherwood Flame)",
+      "artist": "OMB Peezy",
+      "has_synced": true,
+      "path": "select/08_Crash_Out_(feat._Sherwood_Flame)_OMB_Peezy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Crash Out",
+      "artist": "Nate Curry",
+      "has_synced": false,
+      "path": "select/09_Crash_Out_Nate_Curry.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "man im finna crash out bruhh :sob:",
+      "artist": "kkamiistar",
+      "has_synced": true,
+      "path": "select/10_man_im_finna_crash_out_bruhh__sob_kkamiistar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "CRASH OUT",
+      "artist": "MOP!",
+      "has_synced": true,
+      "path": "select/11_CRASH_OUT_MOP!.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crash Out (feat. Stunna 4 Vegas)",
+      "artist": "Blac Youngsta; Stunna 4 Vegas",
+      "has_synced": true,
+      "path": "select/12_Crash_Out_(feat._Stunna_4_Vegas)_Blac_Youngsta;_Stunna_4_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Crash Out",
+      "artist": "Blac Youngsta",
+      "has_synced": true,
+      "path": "select/13_Crash_Out_Blac_Youngsta.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "timebomb (crash out)",
+      "artist": "Playd3ad",
+      "has_synced": false,
+      "path": "select/14_timebomb_(crash_out)_Playd3ad.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "CRASH OUT",
+      "artist": "Kent Osborne",
+      "has_synced": false,
+      "path": "select/15_CRASH_OUT_Kent_Osborne.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Crash Out",
+      "artist": "Yung Sinn",
+      "has_synced": false,
+      "path": "select/16_Crash_Out_Yung_Sinn.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Crash Out (Maverick)",
+      "artist": "sixteen",
+      "has_synced": true,
+      "path": "select/17_Crash_Out_(Maverick)_sixteen.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Crash Out Boyz",
+      "artist": "Skrilla",
+      "has_synced": false,
+      "path": "select/18_Crash_Out_Boyz_Skrilla.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CRASH OUT!!!",
+      "artist": "OddRe:",
+      "has_synced": false,
+      "path": "select/pl_01_CRASH_OUT!!!_OddRe.txt"
+    }
+  ]
+}
